@@ -13,7 +13,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:3000/api",
+        url: "https://tsdemo-harshpvhits305-wg1p4ek1.leapcell.dev/api",
       },
     ],
     components: {
